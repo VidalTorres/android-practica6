@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Spinner Personalizado</string>
+    <string name="itemFrappses">Categoria Frappeses</string>
+    <string name="itemAgradecimiento">Agradecimiento</string>
+    <string name="itemAmor">Amor</string>
+    <string name="itemNewyear">Año Nuevo</string>
+    <string name="itemCanciones">Canciones</string>
+
+    <string name="msgFrappses">Desplegar</string>
+    <string name="msgAgradecimiento">Prueba dar las gracias</string>
+    <string name="msgAmor">Enamora con estas frases</string>
+    <string name="msgNewyear">Felicita el año nuevo</string>
+    <string name="msgCanciones">Escucha solo lo mejor</string>
+    <string name="msgSeleccionando">Se ha seleccionado</string>
+    <string name="Descripcion">Seleccione una categoria</string>
+</resources>
